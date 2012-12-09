@@ -124,14 +124,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.72"
-     inkscape:cx="-462.15016"
-     inkscape:cy="635.49603"
+     inkscape:cx="591.87678"
+     inkscape:cy="113.20087"
      inkscape:current-layer="layer1"
      id="namedview4639"
      showgrid="false"
      inkscape:window-width="1452"
      inkscape:window-height="851"
-     inkscape:window-x="42"
+     inkscape:window-x="47"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="px" />
@@ -158,16 +158,135 @@
        height="1221.7234"
        x="-96.245087"
        y="-35.304832" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#afdde9;fill-opacity:1;stroke:#000000;stroke-width:1.83899999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4640"
+       sodipodi:cx="566.66669"
+       sodipodi:cy="1138.6111"
+       sodipodi:rx="29.166666"
+       sodipodi:ry="29.166666"
+       d="m 595.83335,1138.6111 a 29.166666,29.166666 0 1 1 -58.33333,0 29.166666,29.166666 0 1 1 58.33333,0 z"
+       transform="translate(-1060.6602,-92.316719)" />
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <g
+       id="g4622"
+       transform="matrix(0.20099163,0,0,0.20099163,80.5919,670.17957)"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/university.png"
+       inkscape:export-xdpi="139.69"
+       inkscape:export-ydpi="139.69">
+      <g
+         id="g4594"
+         transform="translate(453.14091,338.84098)"
+         inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+         inkscape:export-xdpi="63.599998"
+         inkscape:export-ydpi="63.599998">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="rect4596"
+           width="233.38065"
+           height="124.656"
+           x="-562.90759"
+           y="268.57913" />
+        <g
+           id="g4598"
+           transform="matrix(0.18569799,0,0,0.18569799,-560.53853,270.5463)">
+          <rect
+             id="rect4600"
+             height="650"
+             width="1235"
+             x="0"
+             y="0"
+             style="fill:#ffffff" />
+          <use
+             id="use4602"
+             xlink:href="#stripe"
+             x="0"
+             y="0"
+             width="1"
+             height="1" />
+          <use
+             id="use4604"
+             y="100"
+             xlink:href="#stripe"
+             x="0"
+             width="1"
+             height="1" />
+          <use
+             id="use4606"
+             y="200"
+             xlink:href="#stripe"
+             x="0"
+             width="1"
+             height="1" />
+          <use
+             id="use4608"
+             y="300"
+             xlink:href="#stripe"
+             x="0"
+             width="1"
+             height="1" />
+          <use
+             id="use4610"
+             y="400"
+             xlink:href="#stripe"
+             x="0"
+             width="1"
+             height="1" />
+          <use
+             id="use4612"
+             y="500"
+             xlink:href="#stripe"
+             x="0"
+             width="1"
+             height="1" />
+          <use
+             id="use4614"
+             y="600"
+             xlink:href="#stripe"
+             x="0"
+             width="1"
+             height="1" />
+          <rect
+             id="rect4616"
+             height="350"
+             width="494"
+             x="0"
+             y="0"
+             style="fill:#3c3b6e" />
+          <use
+             id="use4618"
+             transform="matrix(650,0,0,650,247,175)"
+             xlink:href="#u"
+             x="0"
+             y="0"
+             width="1"
+             height="1" />
+        </g>
+      </g>
+      <rect
+         style="fill:#84583c;fill-opacity:1;stroke:#000000;stroke-width:2.84599996;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4620"
+         width="9.4817047"
+         height="262.64813"
+         x="-117.93896"
+         y="606.92328"
+         inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+         inkscape:export-xdpi="63.599998"
+         inkscape:export-ydpi="63.599998" />
+    </g>
     <path
        inkscape:connector-curvature="0"
        id="path4192"
        d="m -463.30679,660.25783 -346.17863,0 c 0,0 43.85973,-52.08583 136.27846,-57.47401 92.41872,-5.38819 209.90017,57.47401 209.90017,57.47401 z"
-       style="fill:#88aa00;fill-opacity:1;stroke:#000000;stroke-width:2.8180337;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#88aa00;fill-opacity:1;stroke:#000000;stroke-width:2.8180337;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+       inkscape:export-xdpi="74.403381"
+       inkscape:export-ydpi="74.403381" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4644"
@@ -201,8 +320,8 @@
        id="g7005"
        transform="translate(501.94809,-334.86472)"
        inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/design/sailboat.png"
-       inkscape:export-xdpi="360"
-       inkscape:export-ydpi="360">
+       inkscape:export-xdpi="386.10202"
+       inkscape:export-ydpi="386.10202">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
@@ -235,9 +354,9 @@
     <g
        id="g7030"
        transform="translate(1335.3314,-234.07713)"
-       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/design/plane.png"
-       inkscape:export-xdpi="360"
-       inkscape:export-ydpi="360">
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/plane.png"
+       inkscape:export-xdpi="105.40481"
+       inkscape:export-ydpi="105.40481">
       <path
          inkscape:connector-curvature="0"
          id="path7028"
@@ -1040,7 +1159,10 @@
     </g>
     <g
        id="g4444"
-       transform="translate(-32.012908,105.10291)">
+       transform="translate(-32.012908,105.10291)"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+       inkscape:export-xdpi="74.403381"
+       inkscape:export-ydpi="74.403381">
       <rect
          style="fill:#000000;fill-opacity:1;stroke:none"
          id="rect4420"
@@ -1130,27 +1252,42 @@
        width="15.277784"
        height="113.88889"
        x="-920.83331"
-       y="521.94446" />
+       y="521.94446"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+       inkscape:export-xdpi="74.403381"
+       inkscape:export-ydpi="74.403381" />
     <rect
        y="488.96481"
        x="-726.9444"
        height="146.86855"
        width="15.277784"
        id="rect4460"
-       style="fill:#84583c;fill-opacity:1;stroke:#000000;stroke-width:4.31526327;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#84583c;fill-opacity:1;stroke:#000000;stroke-width:4.31526327;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+       inkscape:export-xdpi="74.403381"
+       inkscape:export-ydpi="74.403381" />
     <path
        style="fill:#00aa6c;fill-opacity:1;stroke:#000000;stroke-width:3.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m -1086.1946,689.47962 434.08501,0 c 0,0 -54.99719,-56.96138 -170.88414,-62.85393 -115.88694,-5.89256 -263.20087,62.85393 -263.20087,62.85393 z"
        id="path4190"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+       inkscape:export-xdpi="74.403381"
+       inkscape:export-ydpi="74.403381" />
     <path
        inkscape:connector-curvature="0"
        id="path4194"
        d="m -361.56727,689.32248 -465.1977,0 c 0,0 58.93907,-63.75799 183.13212,-70.35364 124.19304,-6.59566 282.06558,70.35364 282.06558,70.35364 z"
-       style="fill:#37c871;fill-opacity:1;stroke:#000000;stroke-width:3.61428475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#37c871;fill-opacity:1;stroke:#000000;stroke-width:3.61428475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+       inkscape:export-xdpi="74.403381"
+       inkscape:export-ydpi="74.403381" />
     <g
        transform="translate(82.495787,760.13978)"
-       id="g4158">
+       id="g4158"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+       inkscape:export-xdpi="74.403381"
+       inkscape:export-ydpi="74.403381">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none"
          d="m -1043.5879,-512.10353 283.00903,-38.341 0,283.048 -283.00903,38.341 z"
@@ -1178,7 +1315,7 @@
            style="font-size:97.57784271px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:95.99999785%;text-anchor:middle;fill:#ffffff;font-family:DIN-BlackItalic;-inkscape-font-specification:DIN-BlackItalic Bold Italic"
            id="flowPara4168">How to Immigrate to the USA <flowSpan
    style="font-size:67.3806076px"
-   id="flowSpan4170">(illegally)</flowSpan></flowPara></flowRoot>      <g
+   id="flowSpan4170">(for aliens)</flowSpan></flowPara></flowRoot>      <g
          id="g4172"
          transform="matrix(0.99206146,-0.125754,0.125754,0.99206146,-1120.0756,-177.22353)"
          inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo.png"
@@ -1218,25 +1355,31 @@
        width="9.4817047"
        height="262.64813"
        x="-603.09277"
-       y="373.18521" />
+       y="373.18521"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+       inkscape:export-xdpi="74.403381"
+       inkscape:export-ydpi="74.403381" />
     <path
        sodipodi:type="star"
        style="fill:#c83737;fill-opacity:1;stroke:none"
        id="path4466"
-       sodipodi:sides="21"
+       sodipodi:sides="12"
        sodipodi:cx="-537.5"
        sodipodi:cy="252.5"
        sodipodi:r1="39.332783"
        sodipodi:r2="3.5399506"
        sodipodi:arg1="-0.73543977"
-       sodipodi:arg2="-0.58584012"
+       sodipodi:arg2="-0.47364038"
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m -508.33333,226.11111 -26.21701,24.43165 32.69947,-14.66224 -32.25361,15.61862 35.5685,-4.37249 -35.42435,5.41781 35.27711,6.30575 -35.44747,-5.26439 31.85119,16.42372 -32.32093,-15.47884 25.59516,25.08237 -26.32254,-24.31793 17.06488,31.51234 -17.98527,-30.99625 7.01831,35.14229 -8.04992,-34.92042 -3.65187,35.64969 2.60069,-35.74176 -13.99756,32.98948 13.02021,-33.38729 -23.0995,27.39799 22.28284,-28.06621 -30.14896,19.37208 29.56554,-20.25133 -34.51955,9.62487 34.22121,-10.63702 -35.82292,-0.97755 35.83617,-0.0776 -33.94327,-11.49311 34.26693,10.48877 -29.04761,-20.98746 29.65293,20.12314 -21.57094,-28.61697 22.40413,27.96948 -12.1776,-33.70376 13.16463,33.33061 -1.70223,-35.7958 2.75539,35.73017 8.92439,-34.70724 -7.89867,34.95494 18.75804,-30.53478 -17.8509,31.07382 z"
+       d="m -508.33333,226.11111 -26.01642,24.77422 35.30327,-6.65544 -34.91799,8.44689 33.90125,11.88785 -34.46331,-10.14377 23.41542,27.24581 -24.77422,-26.01642 6.65544,35.30327 -8.44689,-34.91799 -11.88785,33.90125 10.14377,-34.46331 -27.24581,23.41542 26.01642,-24.77422 -35.30327,6.65544 34.91799,-8.44689 -33.90125,-11.88785 34.46331,10.14377 -23.41542,-27.24581 24.77422,26.01642 -6.65544,-35.30327 8.44689,34.91799 11.88785,-33.90125 -10.14377,34.46331 z"
        inkscape:transform-center-x="2.4985042"
        inkscape:transform-center-y="1.2995163"
-       transform="translate(-43.055556,-2.7777778)" />
+       transform="translate(-43.055556,-2.7777778)"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+       inkscape:export-xdpi="74.403381"
+       inkscape:export-ydpi="74.403381" />
     <path
        transform="translate(37.5,40.277778)"
        inkscape:transform-center-y="1.2995163"
@@ -1253,7 +1396,515 @@
        sodipodi:cx="-537.5"
        sodipodi:sides="12"
        id="path4468"
-       style="fill:#aaffee;fill-opacity:1;stroke:none"
-       sodipodi:type="star" />
+       style="fill:#3f3e71;fill-opacity:1;stroke:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo-illustration.png"
+       inkscape:export-xdpi="74.403381"
+       inkscape:export-ydpi="74.403381" />
+    <rect
+       style="fill:#b73333;fill-opacity:1;stroke:#000000;stroke-width:2.63204932;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4470"
+       width="190.64572"
+       height="105.9235"
+       x="-37.683975"
+       y="892.59381"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/university.png"
+       inkscape:export-xdpi="139.69"
+       inkscape:export-ydpi="139.69" />
+    <rect
+       y="864.12897"
+       x="6.9841871"
+       height="134.38834"
+       width="101.30939"
+       id="rect4472"
+       style="fill:#b73333;fill-opacity:1;stroke:#000000;stroke-width:2.16117501;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/university.png"
+       inkscape:export-xdpi="139.69"
+       inkscape:export-ydpi="139.69" />
+    <path
+       style="fill:#b73333;fill-opacity:1;stroke:#000000;stroke-width:2.37614226;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1.0949969,864.12897 113.0877631,0 -56.543881,-38.01289 z"
+       id="rect4474"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/university.png"
+       inkscape:export-xdpi="139.69"
+       inkscape:export-ydpi="139.69" />
+    <rect
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:2.43899988999999984;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4477"
+       width="15.267628"
+       height="134.38834"
+       x="5.373076"
+       y="864.12897"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/university.png"
+       inkscape:export-xdpi="139.69"
+       inkscape:export-ydpi="139.69" />
+    <rect
+       y="864.12897"
+       x="94.261963"
+       height="134.38834"
+       width="15.267628"
+       id="rect4479"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:2.43899988999999984;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/university.png"
+       inkscape:export-xdpi="139.69"
+       inkscape:export-ydpi="139.69" />
+    <rect
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:2.43899988999999984;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4481"
+       width="15.267628"
+       height="134.38834"
+       x="37.317516"
+       y="864.12897"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/university.png"
+       inkscape:export-xdpi="139.69"
+       inkscape:export-ydpi="139.69" />
+    <rect
+       y="864.12897"
+       x="65.095291"
+       height="134.38834"
+       width="15.267628"
+       id="rect4483"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:2.43899988999999984;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/university.png"
+       inkscape:export-xdpi="139.69"
+       inkscape:export-ydpi="139.69" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4485"
+       d="m 20.052431,859.13493 75.172895,0 -37.586447,-24.02481 z"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:1.54013824;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/university.png"
+       inkscape:export-xdpi="139.69"
+       inkscape:export-ydpi="139.69" />
+    <g
+       id="g4530"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/university.png"
+       inkscape:export-xdpi="139.69"
+       inkscape:export-ydpi="139.69">
+      <g
+         id="g4493">
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4487"
+           width="7.8466206"
+           height="12.757084"
+           x="-32.539356"
+           y="902.59955" />
+        <rect
+           y="902.59955"
+           x="-20.017673"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4489"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4491"
+           width="7.8466206"
+           height="12.757084"
+           x="-7.4959903"
+           y="902.59955" />
+      </g>
+      <g
+         transform="translate(0,18.414233)"
+         id="g4498">
+        <rect
+           y="902.59955"
+           x="-32.539356"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4500"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4502"
+           width="7.8466206"
+           height="12.757084"
+           x="-20.017673"
+           y="902.59955" />
+        <rect
+           y="902.59955"
+           x="-7.4959903"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4504"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         id="g4506"
+         transform="translate(0,36.828477)">
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4508"
+           width="7.8466206"
+           height="12.757084"
+           x="-32.539356"
+           y="902.59955" />
+        <rect
+           y="902.59955"
+           x="-20.017673"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4510"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4512"
+           width="7.8466206"
+           height="12.757084"
+           x="-7.4959903"
+           y="902.59955" />
+      </g>
+      <g
+         transform="translate(0,55.242717)"
+         id="g4514">
+        <rect
+           y="902.59955"
+           x="-32.539356"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4516"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4518"
+           width="7.8466206"
+           height="12.757084"
+           x="-20.017673"
+           y="902.59955" />
+        <rect
+           y="902.59955"
+           x="-7.4959903"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4520"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         id="g4522"
+         transform="translate(0,73.656956)">
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4524"
+           width="7.8466206"
+           height="12.757084"
+           x="-32.539356"
+           y="902.59955" />
+        <rect
+           y="902.59955"
+           x="-20.017673"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4526"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4528"
+           width="7.8466206"
+           height="12.757084"
+           x="-7.4959903"
+           y="902.59955" />
+      </g>
+    </g>
+    <g
+       id="g4552"
+       transform="translate(146.33182,0)"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/university.png"
+       inkscape:export-xdpi="139.69"
+       inkscape:export-ydpi="139.69">
+      <g
+         id="g4554">
+        <rect
+           y="902.59955"
+           x="-32.539356"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4556"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4558"
+           width="7.8466206"
+           height="12.757084"
+           x="-20.017673"
+           y="902.59955" />
+        <rect
+           y="902.59955"
+           x="-7.4959903"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4560"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         id="g4562"
+         transform="translate(0,18.414233)">
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4564"
+           width="7.8466206"
+           height="12.757084"
+           x="-32.539356"
+           y="902.59955" />
+        <rect
+           y="902.59955"
+           x="-20.017673"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4566"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4568"
+           width="7.8466206"
+           height="12.757084"
+           x="-7.4959903"
+           y="902.59955" />
+      </g>
+      <g
+         transform="translate(0,36.828477)"
+         id="g4570">
+        <rect
+           y="902.59955"
+           x="-32.539356"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4572"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4574"
+           width="7.8466206"
+           height="12.757084"
+           x="-20.017673"
+           y="902.59955" />
+        <rect
+           y="902.59955"
+           x="-7.4959903"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4576"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         id="g4578"
+         transform="translate(0,55.242717)">
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4580"
+           width="7.8466206"
+           height="12.757084"
+           x="-32.539356"
+           y="902.59955" />
+        <rect
+           y="902.59955"
+           x="-20.017673"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4582"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4584"
+           width="7.8466206"
+           height="12.757084"
+           x="-7.4959903"
+           y="902.59955" />
+      </g>
+      <g
+         transform="translate(0,73.656956)"
+         id="g4586">
+        <rect
+           y="902.59955"
+           x="-32.539356"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4588"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4590"
+           width="7.8466206"
+           height="12.757084"
+           x="-20.017673"
+           y="902.59955" />
+        <rect
+           y="902.59955"
+           x="-7.4959903"
+           height="12.757084"
+           width="7.8466206"
+           id="rect4592"
+           style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:2.03806448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+    </g>
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -578.71573,1029.6277 c 0,-15.2777 -1.38888,-26.3888 8.33334,-36.11112 9.72222,-9.7222 38.88889,-6.9444 38.88889,-6.9444 0,0 -1.46433,-30.7698 19.44444,-44.4445 20.90877,-13.6747 94.44445,-2.7778 101.38889,0 6.94444,2.7778 8.33333,45.8334 8.33333,45.8334 0,0 26.38889,-2.7778 37.5,0 11.11111,2.7778 12.5,40.27782 12.5,40.27782 z"
+       id="path4638"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csczzcscc" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.53069162;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4642"
+       width="282.25275"
+       height="339.19717"
+       x="-1554.3208"
+       y="234.29028"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/design/book.png"
+       inkscape:export-xdpi="360.05933"
+       inkscape:export-ydpi="360.05933" />
+    <g
+       inkscape:export-ydpi="360.05933"
+       inkscape:export-xdpi="360.05933"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/design/book.png"
+       id="g4644"
+       transform="translate(-511.94866,783.75089)">
+      <path
+         inkscape:export-ydpi="63.599998"
+         inkscape:export-xdpi="63.599998"
+         inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4646"
+         d="m -1043.5879,-512.10353 283.00903,-38.341 0,283.048 -283.00903,38.341 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <flowRoot
+         inkscape:export-ydpi="63.599998"
+         inkscape:export-xdpi="63.599998"
+         inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo.png"
+         xml:space="preserve"
+         id="flowRoot4648"
+         style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
+         transform="matrix(0.47059437,-0.06390889,0.06390889,0.47059437,-1108.4769,-513.23153)"><flowRegion
+           id="flowRegion4650"><rect
+             id="rect4653"
+             width="517.73975"
+             height="397.57993"
+             x="147.22223"
+             y="51.111111"
+             style="fill:#ffffff;font-family:Dummies;-inkscape-font-specification:Dummies" /></flowRegion><flowPara
+           id="flowPara4655"
+           style="font-size:97.57784271px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:95.99999785%;text-anchor:middle;fill:#ffffff;font-family:DIN-BlackItalic;-inkscape-font-specification:DIN-BlackItalic Bold Italic">How to Immigrate to the USA <flowSpan
+   id="flowSpan4657"
+   style="font-size:67.3806076px">(for aliens)</flowSpan></flowPara></flowRoot>      <g
+         inkscape:export-ydpi="63.599998"
+         inkscape:export-xdpi="63.599998"
+         inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo.png"
+         transform="matrix(0.99206146,-0.125754,0.125754,0.99206146,-1120.0756,-177.22353)"
+         id="g4659">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4661"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
+           transform="matrix(0.32241471,0,0,0.32241471,91.670956,-137.69926)"><flowRegion
+             id="flowRegion4663"><rect
+               id="rect4665"
+               width="597.60254"
+               height="375.79916"
+               x="147.22223"
+               y="51.111111"
+               style="fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies" /></flowRegion><flowPara
+             id="flowPara4667"
+             style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:110.00000238%;text-anchor:middle;fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies">For</flowPara></flowRoot>        <flowRoot
+           transform="matrix(0.49494084,0,0,0.49494084,16.836331,-123.01979)"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
+           id="flowRoot4669"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4671"><rect
+               style="fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies"
+               y="51.111111"
+               x="147.22223"
+               height="375.79916"
+               width="597.60254"
+               id="rect4673" /></flowRegion><flowPara
+             style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:110.00000238%;text-anchor:middle;fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies"
+             id="flowPara4675">Dummies</flowPara></flowRoot>      </g>
+    </g>
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:3.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 542.1152,1129.4572 c -5.89256,-19.6419 15.71349,-90.3525 41.2479,-106.066 25.53441,-15.7135 233.73807,-14.2259 249.45155,-2.4408 15.71349,11.7851 21.60604,110.471 21.60604,110.471 z"
+       id="path4677"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:3.09999989999999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4679"
+       sodipodi:cx="627.77777"
+       sodipodi:cy="1138.6111"
+       sodipodi:rx="33.333332"
+       sodipodi:ry="33.333332"
+       d="m 661.1111,1138.6111 a 33.333332,33.333332 0 1 1 -66.66666,0 33.333332,33.333332 0 1 1 66.66666,0 z" />
+    <path
+       d="m 661.1111,1138.6111 a 33.333332,33.333332 0 1 1 -66.66666,0 33.333332,33.333332 0 1 1 66.66666,0 z"
+       sodipodi:ry="33.333332"
+       sodipodi:rx="33.333332"
+       sodipodi:cy="1138.6111"
+       sodipodi:cx="627.77777"
+       id="path4681"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.09999989999999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(0.44258638,0,0,0.44258638,349.93188,634.67733)" />
+    <path
+       d="m 661.1111,1138.6111 a 33.333332,33.333332 0 1 1 -66.66666,0 33.333332,33.333332 0 1 1 66.66666,0 z"
+       sodipodi:ry="33.333332"
+       sodipodi:rx="33.333332"
+       sodipodi:cy="1138.6111"
+       sodipodi:cx="627.77777"
+       id="path4683"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:3.0999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="translate(143.05556,0)" />
+    <path
+       transform="matrix(0.44258638,0,0,0.44258638,492.98744,634.67733)"
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.0999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4685"
+       sodipodi:cx="627.77777"
+       sodipodi:cy="1138.6111"
+       sodipodi:rx="33.333332"
+       sodipodi:ry="33.333332"
+       d="m 661.1111,1138.6111 a 33.333332,33.333332 0 1 1 -66.66666,0 33.333332,33.333332 0 1 1 66.66666,0 z" />
+    <path
+       style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 599.76171,1025.1291 c -11.94406,2.2237 -28.98587,24.3632 -37.26171,41.2598 l 37.43021,-0.9821 z"
+       id="path4687"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4689"
+       width="59.150517"
+       height="41.666668"
+       x="605.55554"
+       y="1024.7222" />
+    <rect
+       y="1024.7222"
+       x="672.22223"
+       height="41.666668"
+       width="59.150517"
+       id="rect4691"
+       style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4693"
+       width="59.150517"
+       height="41.666668"
+       x="740.27777"
+       y="1024.7222" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4695"
+       d="m 821.19924,1026.3989 c 11.94406,2.2237 14.89958,26.0397 16.30077,39.99 l -30.55556,0 -0.53416,-40.977 z"
+       style="fill:#aaffee;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 543.05556,1092.7778 851.38889,1090"
+       id="path4699"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
