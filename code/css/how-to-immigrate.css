@@ -4,6 +4,10 @@ body {
   background-color: #fff361;
 }
 
+body.chart {
+  background-color: #000000;
+}
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
@@ -50,6 +54,13 @@ body {
   left: 100px;
 }
 
+.university-caption {
+  position: absolute;
+  top: 820px;
+  left: 100px;
+  width: 320px;
+}
+
 .plane {
   position: absolute;
   top: 760px;
@@ -67,4 +78,10 @@ body {
   position: absolute;
   top: 1400px;
   left: 900px;
+}
+
+.back {
+  position: absolute;
+  top: 1000px;
+  left: 100px;
 }
