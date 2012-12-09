@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="mockup01.svg">
+  <defs
+     id="defs4">
+    <rect
+       fill="#B22234"
+       height="50"
+       width="1235"
+       id="stripe" />
+    <g
+       id="u">
+      <use
+         id="use3207"
+         y="-0.216"
+         xlink:href="#x4" />
+      <use
+         id="use3209"
+         xlink:href="#x4" />
+      <use
+         id="use3211"
+         y="0.216"
+         xlink:href="#s6" />
+    </g>
+    <g
+       id="x4">
+      <use
+         id="use3198"
+         xlink:href="#s6" />
+      <use
+         id="use3200"
+         y="0.054"
+         xlink:href="#s5" />
+      <use
+         id="use3202"
+         y="0.108"
+         xlink:href="#s6" />
+      <use
+         id="use3204"
+         y="0.162"
+         xlink:href="#s5" />
+    </g>
+    <g
+       id="s6">
+      <use
+         id="use3193"
+         x="-0.063"
+         xlink:href="#s5" />
+      <use
+         id="use3195"
+         x="0.315"
+         xlink:href="#star" />
+    </g>
+    <g
+       id="s5">
+      <use
+         id="use3182"
+         x="-0.252"
+         xlink:href="#star" />
+      <use
+         id="use3184"
+         x="-0.126"
+         xlink:href="#star" />
+      <use
+         id="use3186"
+         xlink:href="#star" />
+      <use
+         id="use3188"
+         x="0.126"
+         xlink:href="#star" />
+      <use
+         id="use3190"
+         x="0.252"
+         xlink:href="#star" />
+    </g>
+    <g
+       id="star">
+      <use
+         id="use3171"
+         transform="rotate(-144)"
+         xlink:href="#pt" />
+      <use
+         id="use3173"
+         transform="rotate(-72)"
+         xlink:href="#pt" />
+      <use
+         id="use3175"
+         xlink:href="#pt" />
+      <use
+         id="use3177"
+         transform="rotate(72)"
+         xlink:href="#pt" />
+      <use
+         id="use3179"
+         transform="rotate(144)"
+         xlink:href="#pt" />
+    </g>
+    <polygon
+       fill="#FFF"
+       transform="scale(0.0616)"
+       points="-0.1624598481164531,0 0,-0.5 0.1624598481164531,0"
+       id="pt" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="391.82085"
+     inkscape:cy="737.37483"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1226"
+     inkscape:window-height="857"
+     inkscape:window-x="219"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="757.61438"
+       height="1066.7211"
+       x="-6.0609155"
+       y="-6.2776842" />
+    <rect
+       y="-6.2776842"
+       x="-6.0609155"
+       height="90.721069"
+       width="757.61438"
+       id="rect3364"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+    <rect
+       y="95.545692"
+       x="-6.0609155"
+       height="387.89856"
+       width="757.61438"
+       id="rect3366"
+       style="fill:#88aa00;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#b22234;fill-opacity:1;stroke:none"
+       id="rect3384"
+       width="385.67621"
+       height="387.89856"
+       x="-6.0609155"
+       y="95.545692" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2988"
+       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DIN-BlackItalic;-inkscape-font-specification:DIN-BlackItalic Bold Italic"
+       transform="matrix(0.80106101,0,0,0.80106101,4.728653,2.3408133)"><flowRegion
+         id="flowRegion2990"><rect
+           id="rect2992"
+           width="755.14288"
+           height="75"
+           x="100"
+           y="23.790754"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara2994"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Governor;-inkscape-font-specification:Governor;fill:#ffffff">How to Immigrate to the USA</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.53575234,0,0,0.53575234,538.05777,40.555828)"
+       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke:none;font-family:DIN-BlackItalic;-inkscape-font-specification:DIN-BlackItalic Bold Italic"
+       id="flowRoot3015"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3017"><rect
+           y="23.790754"
+           x="100"
+           height="150"
+           width="607.14288"
+           id="rect3019"
+           style="fill:#ff2a2a" /></flowRegion><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ff2a2a;font-family:DINCond-Medium;-inkscape-font-specification:DINCond-Medium Medium"
+         id="flowPara3021">(illegally) </flowPara></flowRoot>    <g
+       id="g3264"
+       transform="matrix(0.18461539,0,0,0.18461539,853.92857,91.647894)">
+      <rect
+         id="rect3214"
+         height="650"
+         width="1235"
+         x="0"
+         y="0"
+         style="fill:#ffffff" />
+      <use
+         id="use3216"
+         xlink:href="#stripe"
+         x="0"
+         y="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3218"
+         y="100"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3220"
+         y="200"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3222"
+         y="300"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3224"
+         y="400"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3226"
+         y="500"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3228"
+         y="600"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <rect
+         id="rect3230"
+         height="350"
+         width="494"
+         x="0"
+         y="0"
+         style="fill:#3c3b6e" />
+      <use
+         id="use3232"
+         transform="matrix(650,0,0,650,247,175)"
+         xlink:href="#u"
+         x="0"
+         y="0"
+         width="1"
+         height="1" />
+    </g>
+    <g
+       transform="matrix(0.07538462,0,0,0.07538462,848.21428,-68.352106)"
+       id="g3276">
+      <rect
+         style="fill:#ffffff"
+         y="0"
+         x="0"
+         width="1235"
+         height="650"
+         id="rect3278" />
+      <use
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         xlink:href="#stripe"
+         id="use3280" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="100"
+         id="use3282" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="200"
+         id="use3284" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="300"
+         id="use3286" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="400"
+         id="use3288" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="500"
+         id="use3290" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="600"
+         id="use3292" />
+      <rect
+         style="fill:#3c3b6e"
+         y="0"
+         x="0"
+         width="494"
+         height="350"
+         id="rect3294" />
+      <use
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         xlink:href="#u"
+         transform="matrix(650,0,0,650,247,175)"
+         id="use3296" />
+    </g>
+    <g
+       id="g3298"
+       transform="matrix(0.08226721,0,0,0.08226721,705.21428,-124.35211)">
+      <rect
+         id="rect3300"
+         height="650"
+         width="1235"
+         x="0"
+         y="0"
+         style="fill:#ffffff" />
+      <use
+         id="use3302"
+         xlink:href="#stripe"
+         x="0"
+         y="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3304"
+         y="100"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3306"
+         y="200"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3308"
+         y="300"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3310"
+         y="400"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3312"
+         y="500"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3314"
+         y="600"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <rect
+         id="rect3316"
+         height="350"
+         width="494"
+         x="0"
+         y="0"
+         style="fill:#3c3b6e" />
+      <use
+         id="use3318"
+         transform="matrix(650,0,0,650,247,175)"
+         xlink:href="#u"
+         x="0"
+         y="0"
+         width="1"
+         height="1" />
+    </g>
+    <g
+       transform="matrix(0.05149798,0,0,0.05149798,666.21428,22.647894)"
+       id="g3320">
+      <rect
+         style="fill:#ffffff"
+         y="0"
+         x="0"
+         width="1235"
+         height="650"
+         id="rect3322" />
+      <use
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         xlink:href="#stripe"
+         id="use3324" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="100"
+         id="use3326" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="200"
+         id="use3328" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="300"
+         id="use3330" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="400"
+         id="use3332" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="500"
+         id="use3334" />
+      <use
+         height="1"
+         width="1"
+         x="0"
+         xlink:href="#stripe"
+         y="600"
+         id="use3336" />
+      <rect
+         style="fill:#3c3b6e"
+         y="0"
+         x="0"
+         width="494"
+         height="350"
+         id="rect3338" />
+      <use
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         xlink:href="#u"
+         transform="matrix(650,0,0,650,247,175)"
+         id="use3340" />
+    </g>
+    <g
+       id="g3342"
+       transform="matrix(0.05149798,0,0,0.05149798,8.21428,22.647894)">
+      <rect
+         id="rect3344"
+         height="650"
+         width="1235"
+         x="0"
+         y="0"
+         style="fill:#ffffff" />
+      <use
+         id="use3346"
+         xlink:href="#stripe"
+         x="0"
+         y="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3348"
+         y="100"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3350"
+         y="200"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3352"
+         y="300"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3354"
+         y="400"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3356"
+         y="500"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use3358"
+         y="600"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <rect
+         id="rect3360"
+         height="350"
+         width="494"
+         x="0"
+         y="0"
+         style="fill:#3c3b6e" />
+      <use
+         id="use3362"
+         transform="matrix(650,0,0,650,247,175)"
+         xlink:href="#u"
+         x="0"
+         y="0"
+         width="1"
+         height="1" />
+    </g>
+    <flowRoot
+       transform="matrix(0.60891243,0,0,0.60891243,10.316334,96.37665)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold"
+       id="flowRoot3368"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3370"><rect
+           style="fill:#ffffff;-inkscape-font-specification:Montserrat Bold;font-family:Montserrat;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+           y="23.790754"
+           x="100"
+           height="75"
+           width="755.14288"
+           id="rect3372" /></flowRegion><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold"
+         id="flowPara3374">The Wrong Way</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3376"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold"
+       transform="matrix(0.60891243,0,0,0.60891243,413.3672,96.37665)"><flowRegion
+         id="flowRegion3378"><rect
+           id="rect3380"
+           width="755.14288"
+           height="75"
+           x="100"
+           y="23.790754"
+           style="fill:#ffffff;-inkscape-font-specification:Montserrat Bold;font-family:Montserrat;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
+         id="flowPara3382"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold">The Right Way</flowPara></flowRoot>    <g
+       id="g3396"
+       transform="translate(-41,-54)">
+      <path
+         transform="matrix(0.94762172,0,0,0.94762172,4.2592591,15.083885)"
+         d="m 100.40916,249.79599 a 19.091883,19.091883 0 1 1 -38.183767,0 19.091883,19.091883 0 1 1 38.183767,0 z"
+         sodipodi:ry="19.091883"
+         sodipodi:rx="19.091883"
+         sodipodi:cy="249.79599"
+         sodipodi:cx="81.317276"
+         id="path3394"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <flowRoot
+         transform="matrix(0.60891243,0,0,0.60891243,13.558975,219.82744)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold"
+         id="flowRoot3386"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3388"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold"
+             y="23.790754"
+             x="100"
+             height="75"
+             width="755.14288"
+             id="rect3390" /></flowRegion><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DIN;-inkscape-font-specification:DIN Medium"
+           id="flowPara3392">1</flowPara></flowRoot>    </g>
+  </g>
+</svg>
