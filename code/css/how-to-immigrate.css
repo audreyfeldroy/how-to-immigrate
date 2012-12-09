@@ -1,6 +1,7 @@
 body {
   padding-top: 80px;
   padding-bottom: 40px;
+  background-color: #fff361;
 }
 
 /* Custom container */
@@ -31,4 +32,8 @@ body {
 }
 .marketing p + h4 {
   margin-top: 28px;
+}
+
+.road {
+  margin: 0 auto;
 }

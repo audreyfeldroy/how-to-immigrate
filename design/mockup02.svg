@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="765"
@@ -16,23 +17,121 @@
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="mockup02.svg">
   <defs
-     id="defs4637" />
+     id="defs4637">
+    <rect
+       fill="#B22234"
+       height="50"
+       width="1235"
+       id="stripe" />
+    <g
+       id="u">
+      <use
+         id="use4349"
+         y="-0.216"
+         xlink:href="#x4" />
+      <use
+         id="use4351"
+         xlink:href="#x4" />
+      <use
+         id="use4353"
+         y="0.216"
+         xlink:href="#s6" />
+    </g>
+    <g
+       id="x4">
+      <use
+         id="use4340"
+         xlink:href="#s6" />
+      <use
+         id="use4342"
+         y="0.054"
+         xlink:href="#s5" />
+      <use
+         id="use4344"
+         y="0.108"
+         xlink:href="#s6" />
+      <use
+         id="use4346"
+         y="0.162"
+         xlink:href="#s5" />
+    </g>
+    <g
+       id="s6">
+      <use
+         id="use4335"
+         x="-0.063"
+         xlink:href="#s5" />
+      <use
+         id="use4337"
+         x="0.315"
+         xlink:href="#star" />
+    </g>
+    <g
+       id="s5">
+      <use
+         id="use4324"
+         x="-0.252"
+         xlink:href="#star" />
+      <use
+         id="use4326"
+         x="-0.126"
+         xlink:href="#star" />
+      <use
+         id="use4328"
+         xlink:href="#star" />
+      <use
+         id="use4330"
+         x="0.126"
+         xlink:href="#star" />
+      <use
+         id="use4332"
+         x="0.252"
+         xlink:href="#star" />
+    </g>
+    <g
+       id="star">
+      <use
+         id="use4313"
+         transform="rotate(-144)"
+         xlink:href="#pt" />
+      <use
+         id="use4315"
+         transform="rotate(-72)"
+         xlink:href="#pt" />
+      <use
+         id="use4317"
+         xlink:href="#pt" />
+      <use
+         id="use4319"
+         transform="rotate(72)"
+         xlink:href="#pt" />
+      <use
+         id="use4321"
+         transform="rotate(144)"
+         xlink:href="#pt" />
+    </g>
+    <polygon
+       fill="#FFF"
+       transform="scale(0.0616)"
+       points="-0.1624598481164531,0 0,-0.5 0.1624598481164531,0"
+       id="pt" />
+  </defs>
   <sodipodi:namedview
-     inkscape:document-units="in"
+     inkscape:document-units="px"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50911688"
-     inkscape:cx="299.53904"
-     inkscape:cy="316.12455"
+     inkscape:zoom="0.72"
+     inkscape:cx="-462.15016"
+     inkscape:cy="635.49603"
      inkscape:current-layer="layer1"
      id="namedview4639"
      showgrid="false"
      inkscape:window-width="1452"
      inkscape:window-height="851"
-     inkscape:window-x="127"
+     inkscape:window-x="42"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="px" />
@@ -49,9 +148,26 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg">
+    <rect
+       style="fill:#fff361;fill-opacity:1;stroke:none;stroke-width:0.79000002000000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4139"
+       width="1023.3406"
+       height="1221.7234"
+       x="-96.245087"
+       y="-35.304832" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4192"
+       d="m -463.30679,660.25783 -346.17863,0 c 0,0 43.85973,-52.08583 136.27846,-57.47401 92.41872,-5.38819 209.90017,57.47401 209.90017,57.47401 z"
+       style="fill:#88aa00;fill-opacity:1;stroke:#000000;stroke-width:2.8180337;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4644"
@@ -78,7 +194,7 @@
        id="path4654"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssccssssscc"
-       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/design/road.png"
+       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/road.png"
        inkscape:export-xdpi="183.14442"
        inkscape:export-ydpi="183.14442" />
     <g
@@ -324,66 +440,70 @@
            width="597.60254"
            id="rect3058" /></flowRegion><flowPara
          style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:110.00000238%;text-anchor:middle;font-family:Dummies;-inkscape-font-specification:Dummies"
-         id="flowPara3060">How to Immigrate to the USA</flowPara></flowRoot>    <path
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m -1043.5879,-512.10353 283.00903,-38.341 0,283.048 -283.00903,38.341 z"
-       id="rect3062"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/design/logo.png"
-       inkscape:export-xdpi="360"
-       inkscape:export-ydpi="360" />
-    <flowRoot
-       transform="matrix(0.47059437,-0.06390889,0.06390889,0.47059437,-1108.4769,-513.23153)"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
-       id="flowRoot3065"
-       xml:space="preserve"
-       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/design/logo.png"
-       inkscape:export-xdpi="360"
-       inkscape:export-ydpi="360"><flowRegion
-         id="flowRegion3067"><rect
-           style="fill:#ffffff;font-family:Dummies;-inkscape-font-specification:Dummies"
-           y="51.111111"
-           x="147.22223"
-           height="397.57993"
-           width="517.73975"
-           id="rect3069" /></flowRegion><flowPara
-         style="font-size:97.57784271px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:95.99999785%;text-anchor:middle;fill:#ffffff;font-family:DIN-BlackItalic;-inkscape-font-specification:DIN-BlackItalic Bold Italic"
-         id="flowPara3099">How to Immigrate to the USA <flowSpan
-   style="font-size:67.3806076px"
-   id="flowSpan3122">(illegally)</flowSpan></flowPara></flowRoot>    <g
-       id="g3089"
-       transform="matrix(0.99206146,-0.125754,0.125754,0.99206146,-1120.0756,-177.22353)"
-       inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/design/logo.png"
-       inkscape:export-xdpi="360"
-       inkscape:export-ydpi="360">
+         id="flowPara3060">How to Immigrate to the USA</flowPara></flowRoot>    <g
+       id="g4141"
+       transform="translate(978.16438,-377.12362)">
+      <path
+         inkscape:export-ydpi="63.599998"
+         inkscape:export-xdpi="63.599998"
+         inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect3062"
+         d="m -1043.5879,-512.10353 283.00903,-38.341 0,283.048 -283.00903,38.341 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
       <flowRoot
-         transform="matrix(0.32241471,0,0,0.32241471,91.670956,-137.69926)"
-         style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
-         id="flowRoot3073"
-         xml:space="preserve"><flowRegion
-           id="flowRegion3075"><rect
-             style="fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies"
-             y="51.111111"
-             x="147.22223"
-             height="375.79916"
-             width="597.60254"
-             id="rect3077" /></flowRegion><flowPara
-           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:110.00000238%;text-anchor:middle;fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies"
-           id="flowPara3079">For</flowPara></flowRoot>      <flowRoot
+         inkscape:export-ydpi="63.599998"
+         inkscape:export-xdpi="63.599998"
+         inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo.png"
          xml:space="preserve"
-         id="flowRoot3081"
-         style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
-         transform="matrix(0.49494084,0,0,0.49494084,16.836331,-123.01979)"><flowRegion
-           id="flowRegion3083"><rect
-             id="rect3085"
-             width="597.60254"
-             height="375.79916"
+         id="flowRoot3065"
+         style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
+         transform="matrix(0.47059437,-0.06390889,0.06390889,0.47059437,-1108.4769,-513.23153)"><flowRegion
+           id="flowRegion3067"><rect
+             id="rect3069"
+             width="517.73975"
+             height="397.57993"
              x="147.22223"
              y="51.111111"
-             style="fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies" /></flowRegion><flowPara
-           id="flowPara3087"
-           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:110.00000238%;text-anchor:middle;fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies">Dummies</flowPara></flowRoot>    </g>
+             style="fill:#ffffff;font-family:Dummies;-inkscape-font-specification:Dummies" /></flowRegion><flowPara
+           id="flowPara3099"
+           style="font-size:97.57784271px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:95.99999785%;text-anchor:middle;fill:#ffffff;font-family:DIN-BlackItalic;-inkscape-font-specification:DIN-BlackItalic Bold Italic">How to Immigrate to the USA <flowSpan
+   id="flowSpan3122"
+   style="font-size:67.3806076px">(illegally)</flowSpan></flowPara></flowRoot>      <g
+         inkscape:export-ydpi="63.599998"
+         inkscape:export-xdpi="63.599998"
+         inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo.png"
+         transform="matrix(0.99206146,-0.125754,0.125754,0.99206146,-1120.0756,-177.22353)"
+         id="g3089">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3073"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
+           transform="matrix(0.32241471,0,0,0.32241471,91.670956,-137.69926)"><flowRegion
+             id="flowRegion3075"><rect
+               id="rect3077"
+               width="597.60254"
+               height="375.79916"
+               x="147.22223"
+               y="51.111111"
+               style="fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies" /></flowRegion><flowPara
+             id="flowPara3079"
+             style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:110.00000238%;text-anchor:middle;fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies">For</flowPara></flowRoot>        <flowRoot
+           transform="matrix(0.49494084,0,0,0.49494084,16.836331,-123.01979)"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
+           id="flowRoot3081"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3083"><rect
+               style="fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies"
+               y="51.111111"
+               x="147.22223"
+               height="375.79916"
+               width="597.60254"
+               id="rect3085" /></flowRegion><flowPara
+             style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:110.00000238%;text-anchor:middle;fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies"
+             id="flowPara3087">Dummies</flowPara></flowRoot>      </g>
+    </g>
     <flowRoot
        inkscape:export-ydpi="360"
        inkscape:export-xdpi="360"
@@ -836,5 +956,304 @@
              id="rect4134" /></flowRegion><flowPara
            style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:110.00000238%;text-anchor:middle;fill:#000000;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
            id="flowPara4136">Dummies</flowPara></flowRoot>    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4418"
+       width="233.38065"
+       height="124.656"
+       x="-719.85205"
+       y="-121.00419" />
+    <g
+       id="g4406"
+       transform="matrix(0.18569799,0,0,0.18569799,-717.48297,-119.03704)">
+      <rect
+         id="rect4356"
+         height="650"
+         width="1235"
+         x="0"
+         y="0"
+         style="fill:#ffffff" />
+      <use
+         id="use4358"
+         xlink:href="#stripe"
+         x="0"
+         y="0"
+         width="1"
+         height="1" />
+      <use
+         id="use4360"
+         y="100"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use4362"
+         y="200"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use4364"
+         y="300"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use4366"
+         y="400"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use4368"
+         y="500"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <use
+         id="use4370"
+         y="600"
+         xlink:href="#stripe"
+         x="0"
+         width="1"
+         height="1" />
+      <rect
+         id="rect4372"
+         height="350"
+         width="494"
+         x="0"
+         y="0"
+         style="fill:#3c3b6e" />
+      <use
+         id="use4374"
+         transform="matrix(650,0,0,650,247,175)"
+         xlink:href="#u"
+         x="0"
+         y="0"
+         width="1"
+         height="1" />
+    </g>
+    <g
+       id="g4444"
+       transform="translate(-32.012908,105.10291)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect4420"
+         width="233.38065"
+         height="124.656"
+         x="-562.90759"
+         y="268.57913" />
+      <g
+         id="g4422"
+         transform="matrix(0.18569799,0,0,0.18569799,-560.53853,270.5463)">
+        <rect
+           id="rect4424"
+           height="650"
+           width="1235"
+           x="0"
+           y="0"
+           style="fill:#ffffff" />
+        <use
+           id="use4426"
+           xlink:href="#stripe"
+           x="0"
+           y="0"
+           width="1"
+           height="1" />
+        <use
+           id="use4428"
+           y="100"
+           xlink:href="#stripe"
+           x="0"
+           width="1"
+           height="1" />
+        <use
+           id="use4430"
+           y="200"
+           xlink:href="#stripe"
+           x="0"
+           width="1"
+           height="1" />
+        <use
+           id="use4432"
+           y="300"
+           xlink:href="#stripe"
+           x="0"
+           width="1"
+           height="1" />
+        <use
+           id="use4434"
+           y="400"
+           xlink:href="#stripe"
+           x="0"
+           width="1"
+           height="1" />
+        <use
+           id="use4436"
+           y="500"
+           xlink:href="#stripe"
+           x="0"
+           width="1"
+           height="1" />
+        <use
+           id="use4438"
+           y="600"
+           xlink:href="#stripe"
+           x="0"
+           width="1"
+           height="1" />
+        <rect
+           id="rect4440"
+           height="350"
+           width="494"
+           x="0"
+           y="0"
+           style="fill:#3c3b6e" />
+        <use
+           id="use4442"
+           transform="matrix(650,0,0,650,247,175)"
+           xlink:href="#u"
+           x="0"
+           y="0"
+           width="1"
+           height="1" />
+      </g>
+    </g>
+    <rect
+       style="fill:#84583c;fill-opacity:1;stroke:#000000;stroke-width:3.8;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4458"
+       width="15.277784"
+       height="113.88889"
+       x="-920.83331"
+       y="521.94446" />
+    <rect
+       y="488.96481"
+       x="-726.9444"
+       height="146.86855"
+       width="15.277784"
+       id="rect4460"
+       style="fill:#84583c;fill-opacity:1;stroke:#000000;stroke-width:4.31526327;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:#00aa6c;fill-opacity:1;stroke:#000000;stroke-width:3.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1086.1946,689.47962 434.08501,0 c 0,0 -54.99719,-56.96138 -170.88414,-62.85393 -115.88694,-5.89256 -263.20087,62.85393 -263.20087,62.85393 z"
+       id="path4190"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4194"
+       d="m -361.56727,689.32248 -465.1977,0 c 0,0 58.93907,-63.75799 183.13212,-70.35364 124.19304,-6.59566 282.06558,70.35364 282.06558,70.35364 z"
+       style="fill:#37c871;fill-opacity:1;stroke:#000000;stroke-width:3.61428475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       transform="translate(82.495787,760.13978)"
+       id="g4158">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         d="m -1043.5879,-512.10353 283.00903,-38.341 0,283.048 -283.00903,38.341 z"
+         id="path4160"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo.png"
+         inkscape:export-xdpi="63.599998"
+         inkscape:export-ydpi="63.599998" />
+      <flowRoot
+         transform="matrix(0.47059437,-0.06390889,0.06390889,0.47059437,-1108.4769,-513.23153)"
+         style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
+         id="flowRoot4162"
+         xml:space="preserve"
+         inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo.png"
+         inkscape:export-xdpi="63.599998"
+         inkscape:export-ydpi="63.599998"><flowRegion
+           id="flowRegion4164"><rect
+             style="fill:#ffffff;font-family:Dummies;-inkscape-font-specification:Dummies"
+             y="51.111111"
+             x="147.22223"
+             height="397.57993"
+             width="517.73975"
+             id="rect4166" /></flowRegion><flowPara
+           style="font-size:97.57784271px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:95.99999785%;text-anchor:middle;fill:#ffffff;font-family:DIN-BlackItalic;-inkscape-font-specification:DIN-BlackItalic Bold Italic"
+           id="flowPara4168">How to Immigrate to the USA <flowSpan
+   style="font-size:67.3806076px"
+   id="flowSpan4170">(illegally)</flowSpan></flowPara></flowRoot>      <g
+         id="g4172"
+         transform="matrix(0.99206146,-0.125754,0.125754,0.99206146,-1120.0756,-177.22353)"
+         inkscape:export-filename="/Users/audreyr/code/how-to-immigrate/code/img/logo.png"
+         inkscape:export-xdpi="63.599998"
+         inkscape:export-ydpi="63.599998">
+        <flowRoot
+           transform="matrix(0.32241471,0,0,0.32241471,91.670956,-137.69926)"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
+           id="flowRoot4174"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4176"><rect
+               style="fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies"
+               y="51.111111"
+               x="147.22223"
+               height="375.79916"
+               width="597.60254"
+               id="rect4178" /></flowRegion><flowPara
+             style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:110.00000238%;text-anchor:middle;fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies"
+             id="flowPara4180">For</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4182"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Dummies;-inkscape-font-specification:Dummies"
+           transform="matrix(0.49494084,0,0,0.49494084,16.836331,-123.01979)"><flowRegion
+             id="flowRegion4184"><rect
+               id="rect4186"
+               width="597.60254"
+               height="375.79916"
+               x="147.22223"
+               y="51.111111"
+               style="fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies" /></flowRegion><flowPara
+             id="flowPara4188"
+             style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:110.00000238%;text-anchor:middle;fill:#ffff00;font-family:Dummies;-inkscape-font-specification:Dummies">Dummies</flowPara></flowRoot>      </g>
+    </g>
+    <rect
+       style="fill:#84583c;fill-opacity:1;stroke:#000000;stroke-width:2.846;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4462"
+       width="9.4817047"
+       height="262.64813"
+       x="-603.09277"
+       y="373.18521" />
+    <path
+       sodipodi:type="star"
+       style="fill:#c83737;fill-opacity:1;stroke:none"
+       id="path4466"
+       sodipodi:sides="21"
+       sodipodi:cx="-537.5"
+       sodipodi:cy="252.5"
+       sodipodi:r1="39.332783"
+       sodipodi:r2="3.5399506"
+       sodipodi:arg1="-0.73543977"
+       sodipodi:arg2="-0.58584012"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -508.33333,226.11111 -26.21701,24.43165 32.69947,-14.66224 -32.25361,15.61862 35.5685,-4.37249 -35.42435,5.41781 35.27711,6.30575 -35.44747,-5.26439 31.85119,16.42372 -32.32093,-15.47884 25.59516,25.08237 -26.32254,-24.31793 17.06488,31.51234 -17.98527,-30.99625 7.01831,35.14229 -8.04992,-34.92042 -3.65187,35.64969 2.60069,-35.74176 -13.99756,32.98948 13.02021,-33.38729 -23.0995,27.39799 22.28284,-28.06621 -30.14896,19.37208 29.56554,-20.25133 -34.51955,9.62487 34.22121,-10.63702 -35.82292,-0.97755 35.83617,-0.0776 -33.94327,-11.49311 34.26693,10.48877 -29.04761,-20.98746 29.65293,20.12314 -21.57094,-28.61697 22.40413,27.96948 -12.1776,-33.70376 13.16463,33.33061 -1.70223,-35.7958 2.75539,35.73017 8.92439,-34.70724 -7.89867,34.95494 18.75804,-30.53478 -17.8509,31.07382 z"
+       inkscape:transform-center-x="2.4985042"
+       inkscape:transform-center-y="1.2995163"
+       transform="translate(-43.055556,-2.7777778)" />
+    <path
+       transform="translate(37.5,40.277778)"
+       inkscape:transform-center-y="1.2995163"
+       inkscape:transform-center-x="2.4985042"
+       d="m -508.33333,226.11111 -24.96634,24.23599 34.25319,-6.11721 -33.73947,8.50581 32.72273,11.82893 -33.47215,-9.50348 22.42426,26.60552 -24.23599,-24.96634 6.11721,34.25319 -8.50581,-33.73947 -11.82893,32.72273 9.50348,-33.47215 -26.60552,22.42426 24.96634,-24.23599 -34.25319,6.11721 33.73947,-8.50581 -32.72273,-11.82893 33.47215,9.50348 -22.42426,-26.60552 24.23599,24.96634 -6.11721,-34.25319 8.50581,33.73947 11.82893,-32.72273 -9.50348,33.47215 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.47364038"
+       sodipodi:arg1="-0.73543977"
+       sodipodi:r2="4.719934"
+       sodipodi:r1="39.332783"
+       sodipodi:cy="252.5"
+       sodipodi:cx="-537.5"
+       sodipodi:sides="12"
+       id="path4468"
+       style="fill:#aaffee;fill-opacity:1;stroke:none"
+       sodipodi:type="star" />
   </g>
 </svg>
