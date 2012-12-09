@@ -52,12 +52,19 @@ body {
 
 .plane {
   position: absolute;
-  top: 800px;
-  left: 700px;
+  top: 760px;
+  left: 900px;
 }
 
 .sailboat {
   position: absolute;
   top: 1300px;
   left: 100px;
+}
+
+
+.van {
+  position: absolute;
+  top: 1400px;
+  left: 900px;
 }
