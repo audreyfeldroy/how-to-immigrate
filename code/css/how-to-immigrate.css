@@ -37,3 +37,27 @@ body {
 .road {
   margin: 0 auto;
 }
+
+.logo-illustration {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+.university {
+  position: absolute;
+  top: 500px;
+  left: 100px;
+}
+
+.plane {
+  position: absolute;
+  top: 800px;
+  left: 700px;
+}
+
+.sailboat {
+  position: absolute;
+  top: 1300px;
+  left: 100px;
+}
