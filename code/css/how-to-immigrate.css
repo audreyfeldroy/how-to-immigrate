@@ -67,21 +67,45 @@ body.chart {
   left: 900px;
 }
 
+.plane-caption {
+  position: absolute;
+  top: 880px;
+  left: 1050px;
+  width: 320px;
+}
+
 .sailboat {
   position: absolute;
   top: 1300px;
   left: 100px;
 }
 
+.sailboat-caption {
+  position: absolute;
+  top: 1540px;
+  left: 150px;
+  width: 390px;
+}
 
 .van {
   position: absolute;
-  top: 1400px;
+  top: 1500px;
   left: 900px;
+}
+
+.van-caption {
+  position: absolute;
+  top: 1700px;
+  left: 1050px;
+  width: 320px;
 }
 
 .back {
   position: absolute;
   top: 1000px;
   left: 100px;
+}
+
+.footer {
+  margin-top: 200px;
 }
